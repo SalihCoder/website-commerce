@@ -1,0 +1,8 @@
+#panier img {
+  width: 100px;
+  height: 100px;
+  margin: 0 15px;
+}
+
+#panier h4 {
+  display: inline-block;

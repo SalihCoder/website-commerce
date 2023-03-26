@@ -1,0 +1,59 @@
+
+
+footer{
+    margin-top: 40%;
+    border-top: 5px solid #000000;
+    background-color: #000000;
+    color: grey;
+    padding: 1px 100px;;
+}
+
+footer .services{
+    margin-top: -20px;
+    display:flex;
+    flex-wrap:wrap;
+   
+}
+footer .services .service{
+    margin-right: 40px;
+}
+footer .services .serviceu{
+    position: relative;
+    text-align: center;
+   
+ 
+}
+
+
+footer #contact{
+    color: grey;
+
+   font-size: 20px;
+   padding-top: 5px;
+}
+
+footer div p{
+    font-size: 17px;
+  margin-right: 10px;
+  
+}
+
+    footer{
+        padding: 0px;
+        
+    }
+
+footer .social-media{
+    display: flex;
+    
+  }
+  footer .social-media p{
+    margin-right: 15px;
+    border: 1px solid grey;
+    border-radius: 100%;
+    padding: 5px;
+    text-align:center;
+    width: 35px;
+    cursor:pointer;
+    margin-top: 10px;
+  }
